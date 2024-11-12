@@ -7,6 +7,9 @@ Este repositório é destinado a aplicação web de um simples CRUD configurado 
 ## Desafio
 O projeto é uma atividade em dupla da faculdade e seu objetivo é criar duas máquinas virtuais na AWS, onde em uma delas estará hospedado um banco de dados e em outra uma aplicação web com um CRUD simples rodando no apache e com isso realizar a conexão entre elas.
 
+## Desenvolvimento
+Para realizar esse desafio o primeiro passo foi criar a aplicação web simples e o banco de dados localmente por conta do cmd da AWS ser um pouco lento e não possuir os resursos do Visual Studio Code, IDE utilizada para o desenvolvimento local. Para visualizar o código desenvolvido localmente [clique aqui.](https://github.com/Sandro-Pimentel/conexao-bd-site/tree/base-local)
+
 ### Features
 
 - [X] Criação das máquinas virtuais que hospedarão os serviços na AWS
